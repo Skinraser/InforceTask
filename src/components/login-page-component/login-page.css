@@ -1,0 +1,16 @@
+.error-message{
+    display: inline;
+    color:red;
+}
+
+.invisible{
+    display: none;
+}
+form{
+    margin: auto;
+    width: 20%;
+    padding-top: 100px;
+}
+.form-control{
+    margin-bottom: 10px;
+}
